@@ -1,1 +1,1 @@
-I like to simplify and improve nn-architecture.
+I like to simplify and improve NNs
