@@ -1,1 +1,1 @@
-I like to simplify and improve NNs.
+I like to simplify and improve NN.
