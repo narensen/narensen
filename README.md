@@ -1,1 +1,1 @@
-I like to simplify and improve NN.
+Gradient descent: my cardio.
