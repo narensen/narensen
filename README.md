@@ -25,38 +25,40 @@
 
 <br><br>
 
-<!-- LIVE PREVIEWS – this is the new magic section -->
+<!-- LIVE PRODUCT PREVIEWS – ultra-simple & 100% GitHub safe -->
 <h2 align="center">🚀 Live Product Previews</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <!-- Visceral -->
-    <td align="center" width="50%" style="padding: 20px;">
-      <h3 style="color:#ffffff;">Visceral</h3>
-      <a href="https://visceral-web.vercel.app" target="_blank">
-        <img src="https://image.thum.io/get/width/720/https://visceral-web.vercel.app" width="95%" style="border-radius:12px; border:2px solid #555;" alt="Visceral Live Preview"/>
-      </a>
-      <p style="color:#a1a1aa; margin:12px 0 20px 0;">
-        Paper trading with real market prices • AI-graded analysis • Competitive leagues<br>
-        <strong>Zero capital • $100K virtual • No KYC</strong>
-      </p>
-      <a href="https://visceral-web.vercel.app" target="_blank" style="background:#ffffff; color:#000000; padding:12px 28px; border-radius:8px; text-decoration:none; font-weight:700;">Launch Visceral →</a>
-    </td>
+<div align="center">
 
-    <!-- BePro -->
-    <td align="center" width="50%" style="padding: 20px;">
-      <h3 style="color:#ffffff;">BePro</h3>
-      <a href="https://bepro.live" target="_blank">
-        <img src="https://image.thum.io/get/width/720/https://bepro.live" width="95%" style="border-radius:12px; border:2px solid #555;" alt="BePro Live Preview"/>
-      </a>
-      <p style="color:#a1a1aa; margin:12px 0 20px 0;">
-        Career Engine for Builders, Not Bystanders<br>
-        <strong>Proof-of-work over polished resumes</strong>
-      </p>
-      <a href="https://bepro.live" target="_blank" style="background:#ffffff; color:#000000; padding:12px 28px; border-radius:8px; text-decoration:none; font-weight:700;">Visit BePro →</a>
-    </td>
-  </tr>
-</table>
+  <!-- Visceral -->
+  <h3>Visceral</h3>
+  <a href="https://visceral-web.vercel.app" target="_blank">
+    <img src="https://image.thum.io/get/width/720/https://visceral-web.vercel.app" width="620" style="border-radius:12px; border:2px solid #555;" alt="Visceral Live Preview"/>
+  </a>
+  <p style="color:#a1a1aa; margin:12px 0 18px 0; max-width:620px;">
+    Paper trading with real market prices • AI-graded analysis • Competitive leagues<br>
+    <strong>Zero capital • $100K virtual • No KYC</strong>
+  </p>
+  <a href="https://visceral-web.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Launch_Visceral-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Launch Visceral"/>
+  </a>
+
+  <br><br><br>
+
+  <!-- BePro -->
+  <h3>BePro</h3>
+  <a href="https://bepro.live" target="_blank">
+    <img src="https://image.thum.io/get/width/720/https://bepro.live" width="620" style="border-radius:12px; border:2px solid #555;" alt="BePro Live Preview"/>
+  </a>
+  <p style="color:#a1a1aa; margin:12px 0 18px 0; max-width:620px;">
+    Career Engine for Builders, Not Bystanders<br>
+    <strong>Proof-of-work over polished resumes</strong>
+  </p>
+  <a href="https://bepro.live" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_BePro-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Visit BePro"/>
+  </a>
+
+</div>
 
 <br>
 
