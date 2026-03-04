@@ -25,44 +25,40 @@
 
 <br><br>
 
-<!-- FEATURED STARTUPS – now 100% GitHub-friendly table -->
-<h2 align="center">🚀 Featured Startups</h2>
+<!-- LIVE PREVIEWS – this is the new magic section -->
+<h2 align="center">🚀 Live Product Previews</h2>
 
-<table align="center" width="100%" style="border-collapse: collapse; background: transparent;">
+<table align="center" width="100%">
   <tr>
     <!-- Visceral -->
-    <td align="center" width="50%" style="padding: 20px; border: 2px solid #71717A; border-radius: 16px; background: #1a1a1a;">
-      <h3 style="color: #ffffff; margin: 0 0 12px 0;">Visceral</h3>
-      <p style="color: #a1a1aa; margin: 0 0 8px 0; font-size: 1.05em;">
-        Paper trading with real market prices • AI-graded analysis • Competitive leagues
-      </p>
-      <p style="color: #71717A; margin: 0 0 20px 0;">
-        Zero capital. Full access to equities, crypto, forex.<br>
-        $100K virtual capital instantly. No KYC.
-      </p>
+    <td align="center" width="50%" style="padding: 20px;">
+      <h3 style="color:#ffffff;">Visceral</h3>
       <a href="https://visceral-web.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Launch_Visceral-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Launch Visceral">
+        <img src="https://image.thum.io/get/width/720/https://visceral-web.vercel.app" width="95%" style="border-radius:12px; border:2px solid #555;" alt="Visceral Live Preview"/>
       </a>
+      <p style="color:#a1a1aa; margin:12px 0 20px 0;">
+        Paper trading with real market prices • AI-graded analysis • Competitive leagues<br>
+        <strong>Zero capital • $100K virtual • No KYC</strong>
+      </p>
+      <a href="https://visceral-web.vercel.app" target="_blank" style="background:#ffffff; color:#000000; padding:12px 28px; border-radius:8px; text-decoration:none; font-weight:700;">Launch Visceral →</a>
     </td>
 
     <!-- BePro -->
-    <td align="center" width="50%" style="padding: 20px; border: 2px solid #71717A; border-radius: 16px; background: #1a1a1a;">
-      <h3 style="color: #ffffff; margin: 0 0 12px 0;">BePro</h3>
-      <p style="color: #a1a1aa; margin: 0 0 8px 0; font-size: 1.05em;">
-        Career Engine for Builders, Not Bystanders
-      </p>
-      <p style="color: #71717A; margin: 0 0 20px 0;">
-        Proof-of-work over polished resumes.<br>
-        The platform for developers who ship.
-      </p>
+    <td align="center" width="50%" style="padding: 20px;">
+      <h3 style="color:#ffffff;">BePro</h3>
       <a href="https://bepro.live" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_BePro-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Visit BePro">
+        <img src="https://image.thum.io/get/width/720/https://bepro.live" width="95%" style="border-radius:12px; border:2px solid #555;" alt="BePro Live Preview"/>
       </a>
+      <p style="color:#a1a1aa; margin:12px 0 20px 0;">
+        Career Engine for Builders, Not Bystanders<br>
+        <strong>Proof-of-work over polished resumes</strong>
+      </p>
+      <a href="https://bepro.live" target="_blank" style="background:#ffffff; color:#000000; padding:12px 28px; border-radius:8px; text-decoration:none; font-weight:700;">Visit BePro →</a>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://x.com/NarenSengodan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
