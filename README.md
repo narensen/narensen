@@ -3,8 +3,8 @@
   <!-- BLACK & WHITE PREMIUM HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&customColorList=1,1,1&height=300&section=header&text=Hi%20I'm%20Naren%20Sengodan%20👋&fontSize=82&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-  <!-- TYPING ANIMATION -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=31&duration=2800&pause=900&color=F1F5F9&center=true&vCenter=true&width=820&lines=Co-Founder+%40Visceral+%7C+50%2B+DAU;Co-Founder+%40BePro;Full+Stack+%26+AI+Developer;Building+meaningful+products+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <!-- TYPING ANIMATION – Bengaluru line removed -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=31&duration=2800&pause=900&color=F1F5F9&center=true&vCenter=true&width=820&lines=Co-Founder+%40Visceral+%7C+50%2B+DAU;Co-Founder+%40BePro;Full+Stack+%26+AI+Developer" alt="Typing SVG" />
 
   <br><br>
 
@@ -25,7 +25,7 @@
 
 <br><br>
 
-<!-- LIVE PRODUCT PREVIEWS – ultra-simple & 100% GitHub safe -->
+<!-- LIVE PRODUCT PREVIEWS -->
 <h2 align="center">🚀 Live Product Previews</h2>
 
 <div align="center">
@@ -35,9 +35,8 @@
   <a href="https://visceral-web.vercel.app" target="_blank">
     <img src="https://image.thum.io/get/width/720/https://visceral-web.vercel.app" width="620" style="border-radius:12px; border:2px solid #555;" alt="Visceral Live Preview"/>
   </a>
-  <p style="color:#a1a1aa; margin:12px 0 18px 0; max-width:620px;">
-    Paper trading with real market prices • AI-graded analysis • Competitive leagues<br>
-    <strong>Zero capital • $100K virtual • No KYC</strong>
+  <p style="color:#000000; margin:12px 0 18px 0; max-width:620px; font-weight:500;">
+    Paper trading with real market prices • AI-graded analysis • Competitive leagues
   </p>
   <a href="https://visceral-web.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Launch_Visceral-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Launch Visceral"/>
@@ -45,12 +44,12 @@
 
   <br><br><br>
 
-  <!-- BePro -->
+  <!-- BePro – with wait delay to fix loading -->
   <h3>BePro</h3>
   <a href="https://bepro.live" target="_blank">
-    <img src="https://image.thum.io/get/width/720/https://bepro.live" width="620" style="border-radius:12px; border:2px solid #555;" alt="BePro Live Preview"/>
+    <img src="https://image.thum.io/get/width/720/wait/4/https://bepro.live" width="620" style="border-radius:12px; border:2px solid #555;" alt="BePro Live Preview"/>
   </a>
-  <p style="color:#a1a1aa; margin:12px 0 18px 0; max-width:620px;">
+  <p style="color:#000000; margin:12px 0 18px 0; max-width:620px; font-weight:500;">
     Career Engine for Builders, Not Bystanders<br>
     <strong>Proof-of-work over polished resumes</strong>
   </p>
