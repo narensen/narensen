@@ -34,7 +34,7 @@ High-performance sparse attention for vision with multiple patterns + custom CUD
 
 **🏥 Applied AI**
 
-**[naren-detector](https://github.com/narensen/naren-detector)**  
+**[EfficientNetV2](https://github.com/narensen/)**  
 EfficientNetV2 + CBAM for histopathology.  
 98.31% F1 on BreakHis. Designed for resource-limited clinical deployment.
 
