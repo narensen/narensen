@@ -72,6 +72,4 @@ AWS · LangChain · OpenCV · Rust (learning)
 **Currently**  
 Shipping production systems · Daily high-signal papers · Strengthening systems fundamentals  
 
-*World problems are my problems.*
-
 </div>
